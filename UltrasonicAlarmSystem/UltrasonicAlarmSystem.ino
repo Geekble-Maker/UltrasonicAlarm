@@ -34,7 +34,7 @@ void loop()
     
     else
     {
-        noTone(Pin_Speaker); // 경보음 출력을 중단합니다.
+        noTone(Pin_Speaker);
     }
 
     delay(50);
